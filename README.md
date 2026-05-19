@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Welcome to Home Page</h1>
+<h1>Welcome to HomePage</h1>
 
 <a href="about.html">Go to About Page</a>
 
